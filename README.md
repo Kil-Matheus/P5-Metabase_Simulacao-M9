@@ -1,7 +1,5 @@
 # P5-Metabase_Simulacao-M9
 
-# P5-Metabase_Simulacao-M9
-
 ## Documentação da Aplicação MQTT e API
 
 Esta documentação descreve a estrutura e funcionalidade de uma aplicação MQTT (Message Queuing Telemetry Transport) que inclui um Publisher, um Subscriber e uma API HTTP. O Subscriber consome a API para enviar os dados recebidos pelos tópicos MQTT para a API HTTP que envia para um banco de dados que é utilizado para alimentar um Dashboard no MetaBase.
